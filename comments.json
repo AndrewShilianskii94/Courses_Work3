@@ -1,0 +1,40 @@
+var = {
+    "comments": [
+        {
+            "post_id": 1,
+            "commenter_name": "John Doe",
+            "comment": "Great post!",
+            "pk": 1
+        },
+        {
+            "post_id": 1,
+            "commenter_name": "Jane Smith",
+            "comment": "I completely agree!",
+            "pk": 2
+        },
+        {
+            "post_id": 2,
+            "commenter_name": "Alice Johnson",
+            "comment": "Interesting topic. Thanks for sharing!",
+            "pk": 3
+        },
+        {
+            "post_id": 3,
+            "commenter_name": "Bob Anderson",
+            "comment": "I have a different opinion.",
+            "pk": 4
+        },
+        {
+            "post_id": 2,
+            "commenter_name": "Eva Lee",
+            "comment": "Nice post! I learned a lot.",
+            "pk": 5
+        },
+        {
+            "post_id": 3,
+            "commenter_name": "Michael Clark",
+            "comment": "Well written. Keep it up!",
+            "pk": 6
+        }
+    ]
+}
